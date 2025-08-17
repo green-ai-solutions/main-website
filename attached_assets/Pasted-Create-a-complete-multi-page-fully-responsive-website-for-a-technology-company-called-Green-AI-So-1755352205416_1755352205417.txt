@@ -1,0 +1,139 @@
+Create a complete, multi-page, fully responsive website for a technology company called "Green AI Solutions". Use HTML, CSS, and JavaScript, and style everything with Tailwind CSS. The website must be professional, modern, and visually appealing, reflecting a theme of sustainability, efficiency, and high-tech innovation.
+
+Overall Theme & Design:
+
+Color Palette: Primary colors should be a deep forest green (#0A4A3A) and a clean, bright teal (#2EC4B6). Use white (#FFFFFF) for backgrounds, a dark charcoal (#212529) for text, and a light gray (#F8F9FA) for section backgrounds to create contrast.
+
+Typography: Use the "Inter" font from Google Fonts for all text.
+
+Visuals: Use abstract, high-quality SVG icons and background patterns that blend nature-inspired elements (like leaves, water ripples) with technological motifs (like neural networks, circuit lines). All visuals should be clean and minimalist.
+
+Interactivity: Implement subtle hover effects on buttons and links, smooth scrolling, and fade-in animations on sections as the user scrolls down the page.
+
+Logo: Create a simple placeholder SVG logo that combines a stylized leaf with a circuit board pattern.
+
+Website Structure (8 Pages):
+
+1. Home Page (index.html)
+
+Navigation Bar: Sticky at the top. Links to: Services, Solutions, Case Studies, About Us, Blog, and a prominent "Contact Us" button.
+
+Hero Section:
+
+Headline: Building Smarter, Sustainable Futures with AI.
+
+Sub-headline: We translate complex data into tangible growth, delivering custom AI, data analytics, and full-stack solutions with unparalleled efficiency and ethical responsibility.
+
+Primary Button: Schedule a Free Consultation
+
+Secondary Link: Explore Our Services
+
+Background: A subtle, animated abstract graphic of green and teal neural network lines.
+
+Trust Bar: A simple section below the hero with placeholder logos for technologies like Python, TensorFlow, AWS, and Google Cloud.
+
+Services Overview Section:
+
+Headline: Your End-to-End Technology Partner
+
+Layout: A four-column grid with cards for:
+
+AI & Automation: Custom models and intelligent agents.
+
+Data Intelligence: BI dashboards and predictive analytics.
+
+Full-Stack Development: Web apps and cloud solutions.
+
+Managed AI & Support: Continuous monitoring and maintenance.
+
+"The Green AI Difference" Section:
+
+Headline: What Makes Us Green?
+
+Content: Explain the focus on computationally efficient code and ethical, transparent AI models. Use two columns with icons.
+
+Case Study Snippet: Feature one placeholder case study with a compelling result (e.g., "Increased operational efficiency by 35%"). Link to the full case studies page.
+
+Testimonials Section: A slider with 2-3 placeholder client testimonials.
+
+Contact Form Section: A simple form with fields for Name, Work Email, and Message, with a "Let's Talk" submit button.
+
+2. Services Page (services.html)
+
+Headline: Our Comprehensive Technology Services
+
+Layout: Use a clean, sectioned layout. Each section should have a title, a descriptive paragraph, and a bulleted list of specific offerings.
+
+Sections:
+
+AI & Automation Services: (Custom AI Models, Generative AI Agents, AI Adjudication Systems, Predictive Analytics).
+
+Data Intelligence Services: (Business Intelligence & Visualization, Data Warehousing, Big Data Analytics).
+
+Full-Stack & Cloud Solutions: (Custom Web Apps, Cloud-Native Architecture, DevOps & MLOps).
+
+Managed Services & Consulting: (AI Model Maintenance, Technology Strategy).
+
+3. Solutions Page (solutions.html)
+
+Headline: Tailored Solutions for Your Industry
+
+Layout: Create a section for 3-4 key industries (e.g., FinTech, Healthcare, E-commerce). Each section should have an icon, the industry name, and a short description of the specific problems you solve for them (e.g., For FinTech: "AI-powered fraud detection and automated compliance checks.").
+
+4. Case Studies Page (case-studies.html)
+
+Headline: Proven Results and Client Success
+
+Layout: A filterable grid of placeholder project cards. Each card shows an image, project title, and a one-line summary. Clicking a card should lead to a template page.
+
+Case Study Template Page (case-study-template.html):
+
+Structure: Project Title, Client Name, Challenge (paragraph), Our Solution (paragraph), Technologies Used (list of logos/tags), and Results (highlight key metrics in bold).
+
+5. About Us Page (about.html)
+
+Headline: Driving Progress Through Innovation and Integrity
+
+Content:
+
+Our Mission: A concise statement about empowering businesses with sustainable and ethical AI.
+
+Our "Green" Philosophy: A more detailed explanation of your core values.
+
+Meet Our Leadership: A section with professional placeholder photos and names/titles for 3 key leaders (e.g., CEO, CTO).
+
+Key Message: Emphasize the expertise of your "dedicated global team of experts" without mentioning specific employee numbers.
+
+6. Blog Page (blog.html)
+
+Headline: Insights on AI, Technology, and Growth
+
+Layout: A clean grid of blog post cards. Each card should have a placeholder image, title, date, and a short excerpt. Create 3-4 placeholder posts with relevant titles like "What is Green AI?" and "5 Ways AI Agents Can Revolutionize Your Business."
+
+7. Careers Page (careers.html)
+
+Headline: Build the Future with Us
+
+Content: A section on company culture and values. Below that, list 2-3 placeholder job openings (e.g., "Senior AI Engineer," "Full-Stack Developer") with a brief description and an "Apply Now" button for each.
+
+8. Contact Us Page (contact.html)
+
+Headline: Let's Start a Conversation
+
+Layout: A two-column layout.
+
+Left Column: A comprehensive contact form (Name, Email, Company, Message).
+
+Right Column: Contact details:
+
+Email: sales@greenaisolutions.com
+
+Phone: +1 (555) 123-4567
+
+Address: 123 Innovation Drive, Tech Park, CA 90210 (placeholder)
+
+An embedded Google Map showing the placeholder location.
+
+Footer (Consistent on all pages):
+
+Include the "Green AI Solutions" logo, a short mission statement, links to all pages, and social media icons (placeholders for LinkedIn, Twitter). Add a copyright notice at the bottom.
