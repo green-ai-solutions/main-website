@@ -12,7 +12,7 @@ export function Footer() {
               <img 
                 src={logoImage} 
                 alt="Green AI Solutions Logo" 
-                className="h-8 w-8 mr-3 brightness-0 invert"
+                className="h-8 w-8 mr-3"
                 data-testid="footer-logo"
               />
               <span className="font-bold text-xl">Green AI Solutions</span>
